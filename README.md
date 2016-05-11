@@ -1,7 +1,5 @@
 ## WarGame
 
-## Synopsis
-
 This is a card game where it compares two cards and updates the score for the winner. The highest card being 'ace' and the lowest card being 2.
 
 ## Code Example
